@@ -1,0 +1,11 @@
+Welcome to SIMPLE OUTPUT GENERATOR
+*************************************
+Description- It is a short project that encompasses many concepts of the C Language
+
+The Generator has 3 calculators - calculate logic gates, area, and volume
+
+Which Calculator would you like to choose?
+
+1.Logic gates
+2.Area calculator
+3.Volume calculator
